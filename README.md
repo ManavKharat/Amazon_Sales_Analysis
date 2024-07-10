@@ -1,1 +1,1 @@
-# Amazon_Sales_Analysis
+Our project focuses on conducting a comprehensive analysis of Amazon sales data to uncover trends, patterns, and key insights. By leveraging advanced analytical tools and techniques, we aim to explore factors influencing sales performance across different product categories,uniits sold,total revenue,profit and  regions. T
